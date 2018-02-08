@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Thai Word Vectors (wikipedia)",
+      "tensorShape": [
+        1000,
+        50
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/Fulmene/nlp-hw3-embedding-visualisation/master/weights.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/Fulmene/nlp-hw3-embedding-visualisation/master/metadata.tsv"
+    }
+  ]
+}
